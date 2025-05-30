@@ -24,4 +24,6 @@ gantt
     section MB MECCANICA SRL
         2° TIROCINIO: 19-09-2021,29-12-2021
         3° TIROCINIO: 20-03-2023,13-04-2023
+    section PRSE SRL
+        4° TIROCINIO: 26-02-2024,15-03-2024
 ```
