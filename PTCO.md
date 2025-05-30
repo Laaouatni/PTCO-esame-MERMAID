@@ -6,7 +6,8 @@ displayMode: compact
     { 
         'gantt': {
             'leftPadding': 110, 
-            'barHeight': 35
+            'barHeight': 35,
+            'fontSize':15
         } 
     } 
 }%%
