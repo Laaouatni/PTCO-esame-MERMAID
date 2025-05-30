@@ -2,10 +2,9 @@
 ---
 displayMode: compact
 ---
-%%{init: { 'gantt': {'leftPadding': 110}} }%%
+%%{init: { 'gantt': {'leftPadding': 110, 'barHeight': 30}} }%%
 gantt
     dateFormat  DD-MM-YYYY
-    axisFormat  %Y
 
     section PATRONATO<BR>SAN VINCENZO
         1° ANNO: 01-09-2019,31-05-2020
