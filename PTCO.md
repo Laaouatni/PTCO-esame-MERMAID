@@ -9,10 +9,10 @@ gantt
         3° ANNO: 01-09-2021,31-05-2022
 
     section QUALIFICA
-        Qualifica 85/100 :milestone, qualifica, 2022-06-15, 0d
+        Qualifica 85/100 :milestone, 15-06-2022
 
     section PESENTI
-        3° ANNO: 2022-09-01, 1y
-        4° ANNO: 2023-09-01, 1y
-        5° ANNO: 2024-09-01, 1y
+        3° ANNO: 14-09-2022,08-06-2023
+        4° ANNO: 14-09-2023,08-06-2024
+        5° ANNO: 14-09-2024,08-06-2025
 ```
