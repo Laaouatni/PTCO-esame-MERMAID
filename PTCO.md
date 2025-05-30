@@ -4,15 +4,16 @@ config:
   gantt:
     displayMode: compact
     leftPadding: 220
-    barHeight: 120
+    barHeight: 170
     fontSize: 30
     sectionFontSize: 30
     barGap: 20
+    axisFontSize: 50
 theme: dark
 ---
 gantt
     dateFormat  DD-MM-YYYY
-    axisFormat  %Y
+    axisFormat  %m-%Y
     tickInterval 4month
     section PATRONATO<BR>SAN VINCENZO
         1° ANNO: 01-09-2019,31-05-2020
@@ -27,11 +28,11 @@ gantt
     section PESENTI 
         1° BORSA: milestone, 01-10-2022,1d
         2° BORSA: milestone, 01-10-2023,1d
-    section FONDAZIONE DALMINE
+    section FONDAZIONE <br> DALMINE
         3° BORSA: milestone, 01-12-2024,1d
     section TORMEC SRL
         1° TIROCINIO: 21-03-2021,04-06-2021
-    section MB MECCANICA SRL
+    section MB <br>MECCANICA <br>SRL
         2° TIROCINIO: 19-09-2021,29-12-2021
         3° TIROCINIO: 20-03-2023,13-04-2023
     section PRSE SRL
