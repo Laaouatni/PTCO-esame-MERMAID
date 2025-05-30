@@ -29,4 +29,11 @@ gantt
     section PRSE SRL
         4° TIROCINIO: 26-02-2024,15-03-2024
 
+    section PESENTI 
+        1° BORSA: milestone, 01-10-2022,1d
+        2° BORSA: milestone, 01-10-2023,1d
+
+    section FONDAZIONE DALMINE
+        3° BORSA: milestone, 01-12-2024,1d
+
 ```
