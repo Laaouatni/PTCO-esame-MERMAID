@@ -2,7 +2,7 @@
 ---
 displayMode: compact
 ---
-%%{init: { 'gantt': {'leftPadding': 110, 'barHeight': 30} } }%%
+%%{init: { 'gantt': {'leftPadding': 110, 'barHeight': 35} } }%%
 gantt
     dateFormat  DD-MM-YYYY
 
@@ -25,7 +25,7 @@ gantt
 
     section FONDAZIONE DALMINE
         3° BORSA: milestone, 01-12-2024,1d
-        
+
     section TORMEC SRL
         1° TIROCINIO: 21-03-2021,04-06-2021
 
