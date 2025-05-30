@@ -12,8 +12,8 @@ theme: dark
 ---
 gantt
     dateFormat  DD-MM-YYYY
-    tickInterval 1day
-    excludes from 2019-09-02 to 2020-05-30
+    axisFormat  %Y
+    tickInterval 4month
     section PATRONATO<BR>SAN VINCENZO
         1° ANNO: 01-09-2019,31-05-2020
         2° ANNO: 01-09-2020,31-05-2021
