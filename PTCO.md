@@ -2,6 +2,7 @@
 ---
 displayMode: compact
 ---
+%%{init: { 'gantt': {'leftPadding': 110}} }%%
 gantt
     dateFormat  DD-MM-YYYY
     axisFormat  %Y
