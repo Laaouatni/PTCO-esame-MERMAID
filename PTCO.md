@@ -19,6 +19,13 @@ gantt
         4° ANNO: 14-09-2023,08-06-2024
         5° ANNO: 14-09-2024,08-06-2025
 
+    section PESENTI 
+        1° BORSA: milestone, 01-10-2022,1d
+        2° BORSA: milestone, 01-10-2023,1d
+
+    section FONDAZIONE DALMINE
+        3° BORSA: milestone, 01-12-2024,1d
+        
     section TORMEC SRL
         1° TIROCINIO: 21-03-2021,04-06-2021
 
@@ -29,11 +36,5 @@ gantt
     section PRSE SRL
         4° TIROCINIO: 26-02-2024,15-03-2024
 
-    section PESENTI 
-        1° BORSA: milestone, 01-10-2022,1d
-        2° BORSA: milestone, 01-10-2023,1d
-
-    section FONDAZIONE DALMINE
-        3° BORSA: milestone, 01-12-2024,1d
 
 ```
