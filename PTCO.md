@@ -2,7 +2,14 @@
 ---
 displayMode: compact
 ---
-%%{init: { 'gantt': {'leftPadding': 110, 'barHeight': 35} } }%%
+%%{init: 
+    { 
+        'gantt': {
+            'leftPadding': 110, 
+            'barHeight': 35
+        } 
+    } 
+}%%
 gantt
     dateFormat  DD-MM-YYYY
 
